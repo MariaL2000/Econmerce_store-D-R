@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "nombre": "Producto A",
+        "imagen": "url_de_la_imagen_a.jpg",
+        "descripcion": "Descripción del Producto A.",
+        "stock": 50
+    },
+    {
+        "id": 2,
+        "nombre": "Producto B",
+        "imagen": "url_de_la_imagen_b.jpg",
+        "descripcion": "Descripción del Producto B.",
+        "stock": 30
+    },
+    {
+        "id": 3,
+        "nombre": "Producto C",
+        "imagen": "url_de_la_imagen_c.jpg",
+        "descripcion": "Descripción del Producto C.",
+        "stock": 20
+    }
+]
