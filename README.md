@@ -3,7 +3,8 @@ Django & React E-commerce Website.
 Cloning the repository
 --> Clone the repository using the command below :
 
-git clone https://github.com/sajib1066/django-ecommerce.git
+git clone 
+https://github.com/MariaL2000/Econmerce_store-D-R.git
 --> Move into the directory where we have the project files :
 
 cd django-ecommerce
